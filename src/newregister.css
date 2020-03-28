@@ -1,0 +1,11 @@
+#register-adm{
+    background-color: white;
+    position: absolute;
+    width: 500px;
+    height: 600px;
+    left: 460px;
+    top: 30px;
+    border-radius: 4px;
+    font-style: normal;
+    font-weight: normal;
+}
